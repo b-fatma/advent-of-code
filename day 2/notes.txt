@@ -1,0 +1,20 @@
+A => Rock 1
+B => Paper 2
+C => Scissors 3
+
+Z player2 wins 
+A B
+B C  => player2 = player1 + 1
+C A
+
+Y draw
+A A
+B B  => player2 = player1
+C C
+
+X player2 loses
+A C
+B A  => player2 = player1 + 2
+C B
+
+scores = [3, 6, 0]
