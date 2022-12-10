@@ -10,3 +10,4 @@ for line in fr:
     else:
         calories += int(line)
 print(maxCalories)
+f.close()
