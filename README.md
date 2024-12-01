@@ -1,2 +1,2 @@
-# Advent-of-Code2022
+# Advent-of-Code
  
