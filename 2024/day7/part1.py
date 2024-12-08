@@ -29,7 +29,7 @@ def get_total_calibration_result(equations):
 
 
 if __name__ == "__main__":
-    equations =read_file("input")
+    equations = read_file("input")
     print(get_total_calibration_result(equations))
 
 
